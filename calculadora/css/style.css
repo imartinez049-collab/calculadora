@@ -1,8 +1,8 @@
 :root {
-    --color-primary: #004d81;   /* Azul  */
-    --color-needs: #004781;     /* 50% - Azul Oscuro */
-    --color-wants: #2d8dcd;     /* 30% - Aqua/Turquesa */
-    --color-savings: #a751f8;   /* 20% - Amarillo/Dorado */
+    --color-primary: #008131;   /* Azul  */
+    --color-needs: #008145;     /* 50% - Azul Oscuro */
+    --color-wants: #2dcd48;     /* 30% - Aqua/Turquesa */
+    --color-savings: #fbfbfc;   /* 20% - Amarillo/Dorado */
     
     --color-bg: #df6706;
     --color-text: #121212;
@@ -133,7 +133,7 @@ body {
 
 
 #main-footer {
-  background:#6592f1;
+  background:#0b971e;
   color:white;
   text-align:center;
   padding: 10px;
@@ -219,7 +219,7 @@ footer a {
 
 @media (min-width: 1200px){
   body{
-    background-color:#dd57ff;
+    background-color:#f1f0f1;
     flex-direction: column;
   }
 }
